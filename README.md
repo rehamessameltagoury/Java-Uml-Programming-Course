@@ -19,8 +19,11 @@ This Course is a part of the Foundation Period of ITI (powered by EPITA) AI Pro-
  ## JUPAI5: Data Preparation 
  
      https://github.com/rehamessameltagoury/Java-Uml-Programming-Course/tree/main/Day3
- 
+
 # Day4:
+  ## JUPAI6: Xchart Integratio
+  
+# Day5:
   ## JUPAI7: Smile and Spark Integration
   
      https://github.com/rehamessameltagoury/Java-Uml-Programming-Course/tree/main/Day4
